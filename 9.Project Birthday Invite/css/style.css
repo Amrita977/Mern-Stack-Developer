@@ -1,0 +1,30 @@
+body{
+    background-color:#9EC8B9;
+    
+}
+
+.spl{
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+color: #092635;
+
+}
+img{
+    position: relative;
+    margin-left: 35%;   
+    border: 1;
+    border-radius: 30px;
+}
+a{
+    text-decoration: none;
+    font-size: small;
+    color: #092635;
+    text-align: center;
+
+}
+li{
+    color: #092635;
+    text-decoration: none;
+    list-style-type: none;
+    text-align: center;
+}
